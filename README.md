@@ -1,2 +1,12 @@
-# simple-web-scraper
-A simple Python web scraper to collect weaather data from Yahoo! Japan.
+# Simple Web Scraper
+
+A simple Python script that scrapes today's weather forecast for Tokyo from Yahoo! Japan.
+
+## Features
+- Gets weather condition (sunny, rainy, etc.)
+- Extracts today's high and low temperature
+
+## Requirements
+
+```bash
+pip install requests beautifulsoup4
