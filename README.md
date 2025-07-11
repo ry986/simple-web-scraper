@@ -10,11 +10,13 @@ A simple Python script that scrapes today's weather forecast for Tokyo from Yaho
 
 ```bash
 pip install requests beautifulsoup4
+```
 
 ## Usage
 
 ```bash
 python scraper.py
+```
 
 ## Output
 
